@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cd6713c-a0e2-435c-ab45-98636f0d4ea7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UeLYup3SktMlSVEA0tSNhuu4AI" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company.collection" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OurArrayListTest.testSize_emptyObject_returns0">
+    <configuration name="OurArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array_list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.collection" />
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.OurArrayListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OurArrayListTest.testGet_nonEmptyObjectFromArray_getsAllElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array_list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.collection" />
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.OurArrayListTest" />
+      <option name="METHOD_NAME" value="testGet_nonEmptyObjectFromArray_getsAllElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OurArrayListTest.testRemoveById_nonEmptyObject_RemovesElementsFromBeginning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array_list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.collection" />
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.OurArrayListTest" />
+      <option name="METHOD_NAME" value="testRemoveById_nonEmptyObject_RemovesElementsFromBeginning" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OurArrayListTest.testSize_emptyObject_returns0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array_list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.collection" />
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.OurArrayListTest" />
+      <option name="METHOD_NAME" value="testSize_emptyObject_returns0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OurArrayListTest.testSize_nonEmptyObject_returnsSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array_list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.collection" />
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.OurArrayListTest" />
+      <option name="METHOD_NAME" value="testSize_nonEmptyObject_returnsSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.OurArrayListTest" />
+      <item itemvalue="JUnit.OurArrayListTest.testSize_nonEmptyObject_returnsSize" />
+      <item itemvalue="JUnit.OurArrayListTest.testSize_emptyObject_returns0" />
+      <item itemvalue="JUnit.OurArrayListTest.testGet_nonEmptyObjectFromArray_getsAllElements" />
+      <item itemvalue="JUnit.OurArrayListTest.testRemoveById_nonEmptyObject_RemovesElementsFromBeginning" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OurArrayListTest.testSize_emptyObject_returns0" />
+        <item itemvalue="JUnit.OurArrayListTest" />
+        <item itemvalue="JUnit.OurArrayListTest.testGet_nonEmptyObjectFromArray_getsAllElements" />
+        <item itemvalue="JUnit.OurArrayListTest.testRemoveById_nonEmptyObject_RemovesElementsFromBeginning" />
+        <item itemvalue="JUnit.OurArrayListTest.testSize_nonEmptyObject_returnsSize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cd6713c-a0e2-435c-ab45-98636f0d4ea7" name="Default Changelist" comment="" />
+      <created>1575712164800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575712164800</updated>
+    </task>
+    <servers />
+  </component>
+</project>
